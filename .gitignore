@@ -43,3 +43,6 @@ next-env.d.ts
 # gallery data
 /data/
 /public/uploads/
+
+# IDE
+.vscode/
